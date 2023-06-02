@@ -1,4 +1,4 @@
-# About
+## About
 Json migrator for personal purpose
 
 ## Python instalation:
